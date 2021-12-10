@@ -1,1 +1,2 @@
-# cbir-flask2
+# cbir-flask
+ cbir-flask
